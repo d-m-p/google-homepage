@@ -39,7 +39,7 @@ li {
 }
 
 .right_footer {
-margin: -35px 0px 0px 0px;
+	margin: -35px 0px 0px 0px;
 }
 
 .right_links {
@@ -47,5 +47,5 @@ margin: -35px 0px 0px 0px;
 }
 
 .left_footer {
-margin: 535px 0px 0px 0px;
+	margin: 535px 0px 0px 0px;
 }
